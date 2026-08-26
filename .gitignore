@@ -1,0 +1,9 @@
+*.h5
+*.hdf5
+*.edf
+*.tif
+*.tiff
+*.npy
+__pycache__/
+*.pyc
+
