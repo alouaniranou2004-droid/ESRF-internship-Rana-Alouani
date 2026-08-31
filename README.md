@@ -140,5 +140,5 @@ This repository is intended to document the scientific and computational methods
 Rana Alouani
 Physics student — Scientific Computing, Instrumentation and Imaging
 
-GitHub: [add your GitHub link]
-LinkedIn: [add your LinkedIn link]
+GitHub: https://github.com/alouaniranou2004-droid 
+LinkedIn: https://www.linkedin.com/in/rana-alouani-478787346/ 
