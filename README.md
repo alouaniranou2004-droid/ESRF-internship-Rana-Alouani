@@ -138,7 +138,7 @@ This repository is intended to document the scientific and computational methods
 ## Contact
 
 Rana Alouani
-Physics student — Scientific Computing, Instrumentation and Imaging
 
+mail : rana.alouani@gmail.com
 GitHub: https://github.com/alouaniranou2004-droid 
 LinkedIn: https://www.linkedin.com/in/rana-alouani-478787346/ 
